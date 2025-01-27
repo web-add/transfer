@@ -1,2 +1,1 @@
-https://discord.gg/hPScRKKy
-https://chat.whatsapp.com/CNWMEjRemw0ICVmizj32BD
+https://discord.com/oauth2/authorize?client_id=1088843582892421141
