@@ -1,1 +1,2 @@
-https://mega.nz/file/TIRBAKgA#fZLZhmAZ-yLaZ34qIykBID-ic_Olz4fcC_INevWwOwg
+https://discord.gg/hPScRKKy
+https://chat.whatsapp.com/CNWMEjRemw0ICVmizj32BD
