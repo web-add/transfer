@@ -1,7 +1,1 @@
-packet.Insert("proto=211|choosemusic=audio/blueyungkai.ogg|active_holiday=0|wing_week_day=0|ubi_week_day=0|server_tick=23802433|clash_active=1|drop_lavacheck_faster=1|isPayingUser=" + a + (pInfo(peer)->supp == 1 ? "1" : pInfo(peer)->supp == 2 ? "2" : "0") + "|usingStoreNavigation=1|enableInventoryTab=1|bigBackpack=1|m_clientBits=1024|eventButtons={\"EventButtonData\":[" 
-"{\"active\":false,\"buttonAction\":\"dailychallengemenu\",\"buttonTemplate\":\"BaseEventButton\",\"counter\":0,\"counterMax\":0,\"itemIdIcon\":23,\"name\":\"DailyChallenge\",\"order\":0,\"rcssClass\":\"daily_challenge\",\"text\":\"\"}," 
-"{\"active\":false,\"buttonAction\":\"openPiggyBank\",\"buttonTemplate\":\"BaseEventButton\",\"counter\":0,\"counterMax\":0,\"name\":\"PiggyBankButton\",\"order\":2,\"rcssClass\":\"piggybank\",\"text\":\"\"}," 
-"{\"active\":false,\"buttonAction\":\"showdungeonsui\",\"buttonTemplate\":\"DungeonEventButton\",\"counter\":0,\"counterMax\":20,\"name\":\"ScrollsPurchaseButton\",\"order\":2,\"rcssClass\":\"scrollbank\",\"text\":\"\"}," 
-"{\"active\":false,\"buttonAction\":\"winter_bingo_ui\",\"buttonTemplate\":\"BaseEventButton\",\"counter\":0,\"counterMax\":0,\"name\":\"BingoButton\",\"order\":2,\"rcssClass\":\"wf-bingo\",\"text\":\"\"}," 
-"{\"active\":false,\"buttonAction\":\"winterrallymenu\",\"buttonTemplate\":\"BaseEventButton\",\"counter\":0,\"counterMax\":0,\"name\":\"WinterRallyButton\",\"order\":2,\"rcssClass\":\"winter-rally\",\"text\":\"\"}" 
-"]}");
+https://www.mediafire.com/file/60um5usropxlc5o/brianjcb+-+Pixels+-+brianjcb.mp3/file
